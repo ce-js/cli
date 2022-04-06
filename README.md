@@ -1,3 +1,5 @@
+> This module isn't stable-released yet.
+
 ## Installation
 
 ```sh
